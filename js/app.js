@@ -1,0 +1,1 @@
+//$("#colonel").hide().show("slow");

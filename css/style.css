@@ -1,0 +1,35 @@
+body {
+	background: white;
+}
+
+h1 {  
+  font-family: 'Pacifico', cursive;
+  font-size: 7.625rem; /* 90px/16px  */
+  color: rgba(255, 255, 255, 1);
+  font-weight: normal;
+  line-height: 1.3;
+  text-shadow: 0 1px 1px rgba(0,0,0,.8);
+  text-align: center;
+}
+
+
+
+  .main-header {
+  padding-top: 170px;
+  height: 450px;
+  background: #ffa949 url('../img/clouds2.jpg') no-repeat center;
+  background-size: cover;
+}
+
+
+
+
+#colonel{
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+
+  }
+
+
+
